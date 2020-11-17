@@ -1,51 +1,105 @@
-## Developer Portfolio Landing Page Template
+# [Single Page Developer Portfolio Template](http://akkefa.com/) &nbsp; [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20free%20resume%20based%20developer%20portfolio%20template&url=http://akkefa.com&via=akkefa&hashtags=github-page,resume-template,developer-portfolio,developers,templates)
+Use Website For Your Personal Portfolio.
+[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/akkefa/developer-portfolio/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/akkefa/developer-portfolio/blob/master/LICENSE)
 
-### Introduction
+Complete Resume based portfolio for developers.
+Developers don't talk much. Their code does all the talking.
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+<p><a href="https://github.com/akkefa/developer-portfolio/archive/master.zip">Download</a></p>
 
-<img src="images/demo.gif?raw=true"/>
+![Design Blocks](https://raw.githubusercontent.com/akkefa/developer-portfolio/master/developer-portfolio.png)
 
-### Installation
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+I wanted a dev landing page to showcase everything I do online and I wanted it to be minimal and right to the point rather beautiful and hefty. And I think most of the devs out there would want the same.
+Feel free to fork, clone, play around and make this your own.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Table of contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Landing page](#landing-page)
+- [What's included?](#whats-included)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Dependencies](#dependencies)
+- [Categories](#categories)
+- [Browser support](#browser-support)
+- [GitHub Pages](#gitHub-pages)
+- [Copyright and license](#copyright-and-license)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Landing page
 
-- Bulleted
-- List
+Purpose of landing page basically define **Who are you?**
 
-1. Numbered
-2. List
+## What's included
 
-**Bold** and _Italic_ and `Code` text
+Within the download archive you'll find the following directories and files. You'll see something like this:
 
-[Link](url) and ![Image](src)
+```
+developer-portfolio/
+├── docs/
+│   ├── css/
+│   │   ├── bootstrap.min.css
+│   │   ├── font-awesome.css
+│   │   └── styles.css
+│   └── fonts/
+│   └── images/
+│   └── js/
+│   └── index.html
+└── README.md
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Bugs and feature requests
 
-### Roadmap
+Have a bug or a feature request? Please first read the issue guidelines and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/akkefa/developer-portfolio/issues/new).
 
-See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
-___
+## Dependencies
 
-### References
+- **Bootstrap**. Developer portfolio is built on Bootstrap 4 library and fully supports it.
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+- **Font Awesome**. We're using the amazing Font Awesome library for the social network icons.
+
+## Categories
+
+- Professional Skills
+- Work Experiences 
+- Education & Certification 
+- Testimonials 
+- Portfolio 
+- Favorite Books 
+- Get in Touch 
+
+## Browser Support
+
+At the moment, we aim to support all major web browsers. Any issue in the browsers listed below should be reported as a bug:
+
+- Internet Explorer 10+
+- Microsoft Edge 14+
+- Safari 6+
+- Firefox (Current - 1) and Current versions
+- Chrome (Current - 1) and Current versions
+- Opera (Current - 1) and Current versions
+- Safari iOS 7.0+
+- Android 6.0+
+
+
+## GitHub Pages
+
+GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
+
+If you already have a GitHub profile (obviously)
+
+* Create a new repo with the name `{username}.github.io`
+* Clone/Fork this repo and copy the files to your newly created repo
+* Customize your name, links and everything else for your landing page
+* `git push`
+
+Voila! Your site should be live at `https://{username}.github.io`
+
+Mine **Developer Portfolio**  [https://akkefa.github.io/developer-portfolio/](https://akkefa.github.io/developer-portfolio/)
+
+## Copyright and license
+
+Code and documentation copyright 2018 [akkefa Labs](https://www.akkefa.com/). Code released under the [MIT License](https://github.com/akkefa/developer-portfolio/blob/master/LICENSE).
